@@ -1,17 +1,19 @@
 #include <opencv2/opencv.hpp>
 #include <opencv_lib.hpp>
 #include <opencv2/viz.hpp>
-#include <opencv2/viz/widget_accessor.hpp>
 #include <iostream>
-#include <opencv_vtk_lib.hpp>
-#include <vtkPoints.h>
-#include <vtkTriangle.h>
-#include <vtkCellArray.h>
-#include <vtkPolyData.h>
-#include <vtkPolyDataMapper.h>
-#include <vtkIdList.h>
-#include <vtkActor.h>
-#include <vtkProp.h>
+
+//widget_accessor‚ðŽg‚í‚È‚¢‚Æ‚«VTK‚Í•s—v
+//#include <opencv2/viz/widget_accessor.hpp>
+//#include <opencv_vtk_lib.hpp>
+//#include <vtkPoints.h>
+//#include <vtkTriangle.h>
+//#include <vtkCellArray.h>
+//#include <vtkPolyData.h>
+//#include <vtkPolyDataMapper.h>
+//#include <vtkIdList.h>
+//#include <vtkActor.h>
+//#include <vtkProp.h>
 
 using namespace cv;
 using namespace std;
